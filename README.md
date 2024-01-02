@@ -4,7 +4,7 @@ go run github.com/99designs/gqlgen init
 
 
 Guide running GraphQL
-# mutation removeUser($removeUser:DeleteUser!){
+<!-- # mutation removeUser($removeUser:DeleteUser!){
 #   removeUser(input: $removeUser){
 #     id
 #     firstName
@@ -34,7 +34,7 @@ Guide running GraphQL
 #     lastName
 #     dob
 #   }
-# }
+# } -->
 ----createdUser variable---{
   "user": {
     "userId": "4",
